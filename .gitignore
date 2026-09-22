@@ -1,0 +1,7 @@
+sim_build*/
+results_p*.xml
+results.xml
+__pycache__/
+*.vcd
+*.pyc
+syn/results/
